@@ -1,2 +1,2 @@
 # hello-world
-Number 1 of x
+Hi. I'm Paul.
